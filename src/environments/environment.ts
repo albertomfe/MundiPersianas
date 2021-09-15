@@ -3,7 +3,20 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  facebook:"https://www.facebook.com/PersianasMundi",
+  twitter:"",
+  instagram:"https://www.instagram.com/griselda_._tyte/",
+  pinterest:"",
+  linkedin:"",
+  correo:"mailto:contacto@mundipersianas.com",
+  whatsapp:"https://api.whatsapp.com/send?phone=+52-3331436189?text=Me pueden dar Informes?",
+  telefono:"33-31-43-61-89",
+  messenger:"https://m.me/PersianasMundi",
+  baseUrl:"https://mundipersianas.com",
+  user:"BaulProgram",
+  password:"T@xps20man",
+  reg_x_pag:3
 };
 
 /*
